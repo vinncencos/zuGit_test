@@ -20,6 +20,9 @@ namespace HelloWorldApp
     private void btnClose_Click(object sender, EventArgs e)
     {
       // test change
+
+      MessageBox.Show("test");
+
       this.Close();
     }
   }
