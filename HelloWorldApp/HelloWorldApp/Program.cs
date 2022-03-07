@@ -26,7 +26,7 @@ namespace HelloWorldApp
     {
       Application.SetHighDpiMode(HighDpiMode.SystemAware);
 
-
+      // poprawka w brach_1
 
       Application.EnableVisualStyles();
       Application.SetCompatibleTextRenderingDefault(false);
